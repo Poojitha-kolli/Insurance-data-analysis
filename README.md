@@ -1,5 +1,5 @@
 # Insurance-data-analysis
-This project involves creating an interactive Power BI dashboard to analyze insurance data and derive actionable insights. The dashboard helps identify key patterns in policyholder behavior, claim frequencies, customer demographics, and risk assessment metrics.
+This project involves creating an interactive Power BI dashboard to analyze insurance data and derive actionable insights.
 
 This dashboard is designed to give stakeholders a clear view of claims, policy performance, and customer distribution.
 
